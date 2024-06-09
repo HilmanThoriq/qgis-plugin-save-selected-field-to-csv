@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SaveSelectedFieldAttributeToCSV" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
